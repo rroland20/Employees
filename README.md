@@ -1,2 +1,2 @@
 # Employees
-Employee accounting app
+Employee accounting app on React
